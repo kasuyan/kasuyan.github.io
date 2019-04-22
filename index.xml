@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>kasuyan</title>
+    <link>http://example.org/</link>
+    <description>Recent content on kasuyan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Mon, 22 Apr 2019 23:13:03 +0900</lastBuildDate>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ブログ始めました</title>
+      <link>http://example.org/post/20190422/</link>
+      <pubDate>Mon, 22 Apr 2019 23:13:03 +0900</pubDate>
+      
+      <guid>http://example.org/post/20190422/</guid>
+      <description> ブログ始めました。 </description>
+    </item>
+    
+  </channel>
+</rss>
